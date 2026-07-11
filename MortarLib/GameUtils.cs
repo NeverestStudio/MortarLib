@@ -22,8 +22,9 @@ namespace MortarLib
             public const string Armor = "damageResist";
             public const string KnockbackArmor = "knockbackResist";
             public const string Vulnerability = "damageMult";
-            public const string slowMass = "massResist";
+            public const string SlowMass = "massResist";
             public const string SlowTime = "slowTime";
+            public const string Gravity = "addGravity";
         }
         /// <summary>
         /// Retrieves the amount of a specific buff applied to the player.
